@@ -327,7 +327,7 @@ spec ea:     Specific effective addressing mode:
                  ay7:  register field Y of instruction is A7
                  axy7: register fields X and Y of instruction are A7
 
-bit pattern: Pattern to recognize this opcode.  "." means don't care.
+bit pattern: Pattern to recognize this opcode.  "." means do not care.
 
 allowed ea:  List of allowed addressing modes:
                  .: not present
